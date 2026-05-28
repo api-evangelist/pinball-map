@@ -1,0 +1,32 @@
+aid: pinball-map
+name: Pinball Map
+description: "A crowdsourced map of public pinball machines"
+url: https://pinballmap.com/api/v1/docs
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Geocoding"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Geocoding
+  - Public APIs
+apis:
+  - name: Pinball Map
+    description: "A crowdsourced map of public pinball machines"
+    humanURL: https://pinballmap.com/api/v1/docs
+    baseURL: https://pinballmap.com/api/v1/docs
+    tags:
+      - Geocoding
+    properties:
+      - type: Documentation
+        url: https://pinballmap.com/api/v1/docs
+common:
+  - type: Website
+    url: https://pinballmap.com/api/v1/docs
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
