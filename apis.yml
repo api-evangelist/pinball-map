@@ -23,10 +23,14 @@ apis:
       - type: Documentation
         url: https://pinballmap.com/api/v1/docs
 common:
+  - type: DomainSecurity
+    url: security/pinball-map-domain-security.yml
   - type: Website
     url: https://pinballmap.com/api/v1/docs
   - type: PublicAPIsListing
     url: https://github.com/public-apis/public-apis
+  - type: Blog
+    url: https://blog.pinballmap.com/feed.xml
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
