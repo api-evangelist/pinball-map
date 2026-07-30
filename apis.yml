@@ -1,4 +1,16 @@
 aid: pinball-map
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/pinball-map.png
 name: Pinball Map
 description: "A crowdsourced map of public pinball machines"
 url: https://pinballmap.com/api/v1/docs
